@@ -1,6 +1,6 @@
 # Dichotomy
 Dichotomy is a Python template to find a number in a specific sorted list.
-It uses the well known "Dichotomy" agloritm.
+It uses the well known "Dichotomy" aglorithm.
 
 ## How it works
 
